@@ -15,9 +15,14 @@ Permite escribir nombres de amigos en una lista y luego hacer un sorteo para ele
 4. El programa mostrará el nombre elegido en la parte inferior.
 
 ## Vista Previa
+
 Pantalla Principal:
 ![Pantalla Principal](assets/screenshot_principal.png)
+
+Lista de Amigos:
 ![Lista de Amigos](assets/screenshot_lista.png)
+
+Resultado:
 ![Resultado](assets/screenshot_resultado.png)
 
 ## Archivos del proyecto
@@ -27,5 +32,8 @@ Pantalla Principal:
 - app.js
 - assets
 
+## Visualización
+
+Puedes ver el proyecto publicado en: [https://guillermohernandezswdev.github.io/chall-amigosecreto/]
 
 ### Proyecto realizado por Guillermo Hernández Cruz
